@@ -25,7 +25,7 @@
 
 ![worker image](imageb.jpg "Title")
 
-*Artists creating Urban Palmpsest (b) 2024*
+*Artists creating **Urban Palimpsest** (b) 2024*
 
 #### 互动元素：
 访客将被邀请直接参与装置，通过重新排列砖块，从而参与作品的持续创作和重建。这种公众参与的元素至关重要，因为它强调了都市空间的民主性和公共艺术品的共同所有权。
@@ -78,7 +78,7 @@ Three artists, dressed in workmen’s uniforms to blur the line between everyday
 
 ![worker image](imageb.png "Title")
 
-*Artists creating Urban Palmpsest (b) 2024*
+*Artists creating **Urban Palimpsest (b)** 2024*
 
 
 #### Interactive Element:
