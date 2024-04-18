@@ -76,7 +76,7 @@ The installation will consist of over 200 bricks, each painted with high-durabil
 
 Three artists, dressed in workmen’s uniforms to blur the line between everyday city workers and creators, will initially arrange the bricks in a predefined pattern. Throughout the duration of the show, they will periodically rearrange the bricks, sometimes following a specific algorithm and at other times making random changes, to demonstrate the fluidity and randomness of urban transformations.
 
-![worker image](imageb.png "Title")
+![worker image](imageb.jpg "Title")
 
 *Artists creating **Urban Palimpsest (b)** 2024*
 
