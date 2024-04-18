@@ -1,7 +1,7 @@
 ### Artist Proposal for Art Parking Exhibition: "Urban Palimpsest"
 
 ![image a](imagea.png "Title")
-*Instance of **Urban Palimpsest (a)** 20204*
+*Instance of **Urban Palimpsest (a)** 2024*
 
 ### 艺术家提案：《都市遗迹》
 
