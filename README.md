@@ -55,7 +55,7 @@
 ### Artist Proposal for Art Parking Exhibition: "Urban Palimpsest"
 
 ![image a](imagea.png "Title")
-*Instance of **Urban Palimpsest (a)** 20204*
+*Instance of **Urban Palimpsest (a)** 2024*
 
 
 **Artist Group:** The Workers of the Manual for Everyday Life: [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io) 
