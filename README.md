@@ -22,7 +22,7 @@
 
 三位艺术家穿着工人服装，模糊了日常城市工人和创作者之间的界限，最初会按照预先定义的模式摆放砖块。在展览期间，他们将定期重新排列砖块，有时按照特定的算法，有时随机变换，以展示都市变革的流动性和随机性。
 
-![worker image](imageb.png "Title")
+![worker image](imageb.jpg "Title")
 *Artists creating Urban Palmpsest (b) 2024*
 
 #### 互动元素：
