@@ -4,7 +4,7 @@
 
 ### 艺术家提案：《都市遗迹》
 
-**艺术家团体：** 《日常生活手册》工作者   [David Lane](https://www.davidlaneartist.com/) [RedJade Yuan](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io)
+**艺术家团体：** 《日常生活手册》工作者:   [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io)
 **展览标题：** 都市遗迹  
 **媒介：** 混合媒介装置  
 **空间需求：** 3.5 x 5 米停车位  
