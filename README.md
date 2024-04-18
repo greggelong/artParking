@@ -44,7 +44,8 @@
 ---
 ### Artist Proposal for Art Parking Exhibition: "Urban Palimpsest"
 
-**Artist Group:** The Workers of the Manual for Everyday Life  [David Lane](https://www.davidlaneartist.com/) [RedJade Yuan](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io) 
+**Artist Group:** The Workers of the Manual for Everyday Life: [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io) 
+
 **Exhibition Title:** Urban Palimpsest  
 **Medium:** Mixed Media Installation  
 **Space Requirements:** 3.5 x 5m parking space  
