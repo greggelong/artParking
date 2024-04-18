@@ -22,6 +22,9 @@
 
 三位艺术家穿着工人服装，模糊了日常城市工人和创作者之间的界限，最初会按照预先定义的模式摆放砖块。在展览期间，他们将定期重新排列砖块，有时按照特定的算法，有时随机变换，以展示都市变革的流动性和随机性。
 
+![worker image](imageb.png "Title")
+*Artists creating Urban Palmpsest (b) 2024*
+
 #### 互动元素：
 访客将被邀请直接参与装置，通过重新排列砖块，从而参与作品的持续创作和重建。这种公众参与的元素至关重要，因为它强调了都市空间的民主性和公共艺术品的共同所有权。
 
@@ -69,6 +72,10 @@
 The installation will consist of over 200 bricks, each painted with high-durability outdoor paint to withstand environmental conditions. The bricks will feature a mix of simple stenciled images and slogans related to urban life, creating a cohesive yet variable visual language that participants can manipulate. The initial layout will mimic a recognizable street sign or directive, which will then evolve as the bricks are rearranged.
 
 Three artists, dressed in workmen’s uniforms to blur the line between everyday city workers and creators, will initially arrange the bricks in a predefined pattern. Throughout the duration of the show, they will periodically rearrange the bricks, sometimes following a specific algorithm and at other times making random changes, to demonstrate the fluidity and randomness of urban transformations.
+
+![worker image](imageb.png "Title")
+*Artists creating Urban Palmpsest (b) 2024*
+
 
 #### Interactive Element:
 Visitors will be invited to engage directly with the installation by rearranging the bricks, thus participating in the continual creation and recreation of the work. This element of public participation is critical as it underscores the democratic aspect of urban space and the communal ownership of public artworks.
