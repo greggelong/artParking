@@ -1,8 +1,7 @@
 ### Artist Proposal for Art Parking Exhibition: "Urban Palimpsest"
 
-![alt text](contexts.png "Title")
-
 ![image a](imagea.png "Title")
+*Instance of **Urban Palimpsest (a)** 20204*
 
 ### 艺术家提案：《都市遗迹》
 
@@ -14,6 +13,9 @@
 
 #### 概念框架：
 《都市遗迹》是《日常生活手册》系列的一部分，灵感来自都市公共工程的动态和不断演变的景观。这个装置将探索由城市维护活动产生的新兴艺术概念，例如最初标示自行车停车或行人通道等实用目的的涂在砖上的标志，经过一段时间，这些实用砖在工人进行例行维修时被扰动和重新排列后变成抽象的表现形式。该项目庆祝了这种无意识的艺术形式，突出了秩序与混乱、计划艺术与自发创作之间的流动边界。
+
+![worker image](contexts.png "Title")
+*Workers performing city maintenance*
 
 #### 艺术品描述：
 这个装置将由 200 多块砖组成，每块都涂上耐候户外漆以抵御环境条件的影响。这些砖上将绘有简单的模板图像和与都市生活相关的标语，形成一种连贯但多变的视觉语言，参与者可以自行操纵。最初的布局将模仿可识别的街道标志或指示，然后随着砖块的重新排列而演变。
@@ -47,6 +49,10 @@
 ---
 ### Artist Proposal for Art Parking Exhibition: "Urban Palimpsest"
 
+![image a](imagea.png "Title")
+*Instance of **Urban Palimpsest (a)** 20204*
+
+
 **Artist Group:** The Workers of the Manual for Everyday Life: [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io) 
 
 **Exhibition Title:** Urban Palimpsest  
@@ -55,6 +61,9 @@
 
 #### Conceptual Framework:
 "Urban Palimpsest," part of "The Manual for Everyday Life" series, draws inspiration from the dynamic and ever-evolving landscape of urban public works. This installation will explore the concept of emergent art arising from the mundane activities of city maintenance, such as the rearrangement of painted bricks initially marked for practical purposes like signaling bicycle parking or pedestrian paths. Over time, these utilitarian bricks become abstract representations when disturbed and rearranged by workers during routine repairs. This project celebrates this unintended art form, highlighting the fluid boundary between order and chaos, and planned art versus spontaneous creation.
+
+![worker image](contexts.png "Title")
+*Workers performing city maintenance*
 
 #### Description of Artwork:
 The installation will consist of over 200 bricks, each painted with high-durability outdoor paint to withstand environmental conditions. The bricks will feature a mix of simple stenciled images and slogans related to urban life, creating a cohesive yet variable visual language that participants can manipulate. The initial layout will mimic a recognizable street sign or directive, which will then evolve as the bricks are rearranged.
