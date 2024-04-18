@@ -15,6 +15,7 @@
 《都市遗迹》是《日常生活手册》系列的一部分，灵感来自都市公共工程的动态和不断演变的景观。这个装置将探索由城市维护活动产生的新兴艺术概念，例如最初标示自行车停车或行人通道等实用目的的涂在砖上的标志，经过一段时间，这些实用砖在工人进行例行维修时被扰动和重新排列后变成抽象的表现形式。该项目庆祝了这种无意识的艺术形式，突出了秩序与混乱、计划艺术与自发创作之间的流动边界。
 
 ![worker image](contexts.png "Title")
+
 *Workers performing city maintenance*
 
 #### 艺术品描述, 《都市遗迹（b）》：
@@ -23,6 +24,7 @@
 三位艺术家穿着工人服装，模糊了日常城市工人和创作者之间的界限，最初会按照预先定义的模式摆放砖块。在展览期间，他们将定期重新排列砖块，有时按照特定的算法，有时随机变换，以展示都市变革的流动性和随机性。
 
 ![worker image](imageb.jpg "Title")
+
 *Artists creating Urban Palmpsest (b) 2024*
 
 #### 互动元素：
@@ -66,6 +68,7 @@
 "Urban Palimpsest," part of "The Manual for Everyday Life" series, draws inspiration from the dynamic and ever-evolving landscape of urban public works. This installation will explore the concept of emergent art arising from the mundane activities of city maintenance, such as the rearrangement of painted bricks initially marked for practical purposes like signaling bicycle parking or pedestrian paths. Over time, these utilitarian bricks become abstract representations when disturbed and rearranged by workers during routine repairs. This project celebrates this unintended art form, highlighting the fluid boundary between order and chaos, and planned art versus spontaneous creation.
 
 ![worker image](contexts.png "Title")
+
 *Workers performing city maintenance*
 
 #### Description of Artwork, Urban Palimpsest (b):
@@ -74,6 +77,7 @@ The installation will consist of over 200 bricks, each painted with high-durabil
 Three artists, dressed in workmen’s uniforms to blur the line between everyday city workers and creators, will initially arrange the bricks in a predefined pattern. Throughout the duration of the show, they will periodically rearrange the bricks, sometimes following a specific algorithm and at other times making random changes, to demonstrate the fluidity and randomness of urban transformations.
 
 ![worker image](imageb.png "Title")
+
 *Artists creating Urban Palmpsest (b) 2024*
 
 
