@@ -86,5 +86,11 @@ Additionally, a digital component will be integrated via a QR code that links to
 Through "Urban Palimpsest," I, alongside The Workers of the Manual for Everyday Life, seek to engage the Art Parking audience in a dialogue about the beauty and transformative potential of urban spaces. This interactive installation not only reflects on the nature of change in city landscapes but also empowers the public to be co-creators in the artistic process, thereby democratizing art and its creation.
 
 ---
+
+
 [Return](https://greggelong.github.io/urban)
+
+[Create Brick Self-portrait](https://greggelong.github.io/parking)
+
+[Transform your own images](https://greggelong.github.io/parkingDrop)
 
